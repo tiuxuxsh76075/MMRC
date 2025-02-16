@@ -1,0 +1,2 @@
+# MMRC
+Repository of: MMRC:ALarge-ScaleBenchmarkforUnderstandingMultimodalLarge  LanguageModelinReal-WorldConversation
