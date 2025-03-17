@@ -19,6 +19,12 @@ This repo presents the implementation of the **MMRC 💬** , You can find the pa
 <div align=center><img src="Figs/compare.png" width="70%" height="70%" /></div>
 
 ## Stastics of MMRC 📊
+## Dialogue Turns Distribution:
+The dialogue turns in MMRC are not fixed, ranging from 4 to 22 turns. This ensures the dialogues are more natural and realistic compared to other datasets like ConvBench and EVALDIAL, which use fixed turn structures.
+
+## Dialogue Categorization:
+A classification network has been designed to map the dialogue data into 14 predefined categories. This ensures a balanced distribution of dialogue categories, covering a wide range of topics and making the dataset diverse and representative of real-world conversations.
+
 <div align="center">
   <img src="Figs/distribution.png" width="55%" height="55%" />
   <img src="Figs/category.png" width="35%" height="35%" />
