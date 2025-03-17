@@ -1,4 +1,3 @@
-# MMRC
-Repository of: MMRC:ALarge-ScaleBenchmarkforUnderstandingMultimodalLarge  LanguageModelinReal-WorldConversation
+## 🧑💬👦 MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation
 
-I promise it will be finished before 3.15, 2025
+This repo presents the implementation of the **MMRC 💬** 
