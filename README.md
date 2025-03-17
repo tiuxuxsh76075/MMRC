@@ -14,3 +14,5 @@ This repo presents the implementation of the **MMRC 💬** , You can find the pa
    Data for MMRC was collected through the Dialogflow platform, which integrates a variety of mainstream MLLMs. The data represents naturally occurring dialogues in real-world scenarios, ensuring the naturalness and representativeness of the dataset.
 5. **Dialogue Turns and Categorization**  
    MMRC's dialogue turns range from 4 to 22, ensuring the dialogues are diverse and realistic. Additionally, a classification network maps dialogue data into 14 predefined categories, ensuring the dialogues cover a wide range of topics and are representative of real-world conversations.
+
+## Stastics of MMRC 📊
