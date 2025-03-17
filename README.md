@@ -34,12 +34,14 @@ A classification network has been designed to map the dialogue data into 14 pred
 </div>
 
 ## Expriment and Key Finds 🌟
-**Main results:**  
+**Main results📝:**  
 Our main results is shown in the table below:
 <div align=center><img src="Figs/result_table.png" width="50%" height="50%" /></div>
 
-**Several Key finds**  
+**Several Key finds⚡️:**  
 We also have some visulation of our finds, details are in the paper: 
 <div align=center><img src="Figs/imbalance.png" width="60%" height="60%" /></div>
 <div align=center><img src="Figs/3_1.png" width="80%" height="80%" /></div>
 <div align=center><img src="Figs/3_2.png" width="80%" height="80%" /></div>
+
+## Citations
