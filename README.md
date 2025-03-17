@@ -20,6 +20,6 @@ This repo presents the implementation of the **MMRC 💬** , You can find the pa
 
 ## Stastics of MMRC 📊
 <div align="center">
-  <img src="Figs/distribution.png" width="45%" height="45%" />
-  <img src="Figs/category.png" width="45%" height="45%" />
+  <img src="Figs/distribution.png" width="65%" height="65%" />
+  <img src="Figs/category.png" width="30%" height="30%" />
 </div>
