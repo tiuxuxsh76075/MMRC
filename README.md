@@ -32,4 +32,4 @@ A classification network has been designed to map the dialogue data into 14 pred
 </div>
 
 ## Expriment and Key Finds 🌟
-<div align=center><img src="Figs/results.png" width="70%" height="70%" /></div>
+<div align=center><img src="Figs/result_table.png" width="70%" height="70%" /></div>
