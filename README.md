@@ -30,3 +30,6 @@ A classification network has been designed to map the dialogue data into 14 pred
   <img src="Figs/distribution.png" width="55%" height="55%" />
   <img src="Figs/category.png" width="35%" height="35%" />
 </div>
+
+## Expriment and Key Finds 🌟
+<div align=center><img src="Figs/results.png" width="70%" height="70%" /></div>
