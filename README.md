@@ -37,6 +37,6 @@ Our main results is shown in the table below:
 <div align=center><img src="Figs/result_table.png" width="50%" height="50%" /></div>
 
 **Several Key finds**  
-<div align=center><img src="Figs/imbalance.png" width="70%" height="70%" /></div>
-<div align=center><img src="Figs/3_1.png" width="70%" height="70%" /></div>
-<div align=center><img src="Figs/3_2.png" width="70%" height="70%" /></div>
+<div align=center><img src="Figs/imbalance.png" width="60%" height="60%" /></div>
+<div align=center><img src="Figs/3_1.png" width="80%" height="80%" /></div>
+<div align=center><img src="Figs/3_2.png" width="80%" height="80%" /></div>
