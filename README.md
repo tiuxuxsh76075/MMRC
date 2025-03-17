@@ -45,3 +45,11 @@ We also have some visulation of our finds, details are in the paper:
 <div align=center><img src="Figs/3_2.png" width="80%" height="80%" /></div>
 
 ## Citations
+```
+@article{xue2025mmrc, 
+  title={MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation},
+  author={Xue, Haochen and Tang, Feilong and Hu, Ming and Liu, Yexin and Huang, Qidong and Li, Yulong and Liu, Chengzhi and Xu, Zhongxing and Zhang, Chong and Feng, Chun-Mei and others},
+  journal={arXiv preprint arXiv:2502.11903},
+  year={2025}
+}
+```
