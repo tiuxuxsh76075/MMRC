@@ -15,6 +15,6 @@ This repo presents the implementation of the **MMRC 💬** , You can find the pa
 5. **Dialogue Turns and Categorization**  
    MMRC's dialogue turns range from 4 to 22, ensuring the dialogues are diverse and realistic. Additionally, a classification network maps dialogue data into 14 predefined categories, ensuring the dialogues cover a wide range of topics and are representative of real-world conversations.
 
-<div align=center><img src="Figs/Fig1.png" width="95%" height="95%" /></div>
+<div align=center><img src="Figs/Fig1.png" width="65%" height="65%" /></div>
 
 ## Stastics of MMRC 📊
